@@ -7,6 +7,12 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJokerZz&theme=dracula&hide_border=true&stroke=ff0000" alt="ItsJokerZz Streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mza/mza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mza/mza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mza/mza/output/pacman-contribution-graph.svg">
+</picture>
+
   <br/>
 
   <h2>🌐 Connect With Me</h2>
